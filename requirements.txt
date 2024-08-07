@@ -1,3 +1,9 @@
 streamlit
 nbformat
 nbconvert
+streamlit
+pandas
+pytorch-lightning
+pytorch-forecasting
+matplotlib
+torch
