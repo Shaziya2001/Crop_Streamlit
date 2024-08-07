@@ -18,7 +18,7 @@ def run_notebook(notebook_path):
     
     return buffer.getvalue()
 
-notebook_path = '/content/TFT.ipynb'  
+notebook_path = 'https://github.com/Shaziya2001/Crop_Streamlit/blob/main/TFT.ipynb'  
 
 st.title("Jupyter Notebook Viewer")
 
