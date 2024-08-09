@@ -1,6 +1,6 @@
-streamlit==1.22.0
-pandas==1.5.3
-numpy==1.23.5
+streamlit==1.26.0
+pandas==2.1.0
+numpy==1.25.2
 pytorch-forecasting==1.0.0
-pytorch-lightning==2.0.2
+pytorch-lightning==2.0.9
 torch==2.0.1
